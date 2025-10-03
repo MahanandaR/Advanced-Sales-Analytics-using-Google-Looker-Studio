@@ -131,7 +131,8 @@ Google Looker Studio dashboards make the data easily accessible and interpretabl
 
 
 
-<img width="1079" height="603" alt="image" src="https://github.com/user-attachments/assets/03cbfb87-6677-4e1d-bb44-408d373e5a98" />
+<img width="1080" height="600" alt="image" src="https://github.com/user-attachments/assets/cdd04698-93d7-4eb4-b3d5-0ef417c88ed3" />
+
 
 
 
