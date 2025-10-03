@@ -1,3 +1,11 @@
+CREATE DATABASE sales;
+USE sales;
+CREATE TABLE IF NOT EXISTS customer_detail (
+    id VARCHAR(255),
+    registered_date DATE
+);
+
+---------------------------------------------
 
 INSERT INTO customer_detail VALUES
 ('C996508L','2021-07-10 00:00:00'),
